@@ -6,7 +6,7 @@ This repo is made for submitting my work for the Getting & Cleaning Data class
 We will find three files:
 * READ.md
 * run_analysis.R
-* code_book.md
+* code_book.txt
 
 To obtain the tidy data tables you have to run the run_analysis.R once you have unzipped your work on your working directory.
 
